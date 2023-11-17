@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/elisandrof07/elisandrof07/background" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ElisandroF07/ElisandroF07/background.png"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="left">👋 Hi there, I'm Elisandro Franco, a passionate Front-End developer dedicated to crafting engaging and user-friendly web experiences.
