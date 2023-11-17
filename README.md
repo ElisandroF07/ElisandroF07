@@ -12,7 +12,7 @@
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=60% align="center"  src="https://github.com/ElisandroF07/ElisandroF07/blob/main/languages.png" />
+<img align="center"  src="https://github.com/ElisandroF07/ElisandroF07/blob/main/languages.png" />
 
  </div>
  
